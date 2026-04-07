@@ -1,4 +1,4 @@
-<!-- 建议选择v2，README为v2文档 -->
+# 建议选择v2，README为v2文档
 # Frontend Monorepo Template
 
 一个基于 `pnpm workspace + Turbo + Vite + React + TypeScript` 的前端 monorepo 基础框架，内置三个应用：
